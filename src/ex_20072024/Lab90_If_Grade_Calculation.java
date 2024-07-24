@@ -7,7 +7,7 @@ public class Lab90_If_Grade_Calculation {
         Scanner sc = new Scanner(System.in);
         int score = sc.nextInt();
         char grade = 'F';
-        if(score>=0 && grade<=100)
+        if(score<0|| score>100)
         {
         if (score>=90 && score <=100)
         {
