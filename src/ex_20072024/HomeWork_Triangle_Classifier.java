@@ -2,7 +2,7 @@ package ex_20072024;
 
 import java.util.Scanner;
 
-public class Lab92_Triangle_Classifier {
+public class HomeWork_Triangle_Classifier {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of L1");
