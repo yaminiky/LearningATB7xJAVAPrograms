@@ -15,4 +15,10 @@ public class ATBPerson {
     {
         this.name=nameGiven;
     }
+    ATBPerson(String nameGiven, long PhoneNumber)
+    {
+        this.name=nameGiven;
+        this.phone=PhoneNumber;
+
+    }
 }
